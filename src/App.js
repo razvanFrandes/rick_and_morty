@@ -22,11 +22,11 @@ function App() {
         <Navbar />
       </div>
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/episodes" element={<Episodes />} />
-        <Route path="/episodes/:id" element={<Episode />} />
-        <Route path="/locations" element={<Locations />} />
-        <Route path="/character/:id" element={<Character />} />
+        <Route path="https://razvanfrandes.github.io/rickmorty/" element={<Home />} />
+        <Route path="https://razvanfrandes.github.io/rickmorty/episodes" element={<Episodes />} />
+        <Route path="https://razvanfrandes.github.io/rickmorty/episodes/:id" element={<Episode />} />
+        <Route path="https://razvanfrandes.github.io/rickmorty/locations" element={<Locations />} />
+        <Route path="https://razvanfrandes.github.io/rickmorty/character/:id" element={<Character />} />
       </Routes>
     </Router>
   )

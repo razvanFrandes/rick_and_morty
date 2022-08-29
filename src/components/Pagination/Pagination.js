@@ -3,8 +3,8 @@ import ReactPaginate from 'react-paginate';
 
 
 export const Pagination = ({ info, pageNumber, setPageNumber }) => {
-    return (
-        <nav aria-label="Page navigation example">
+    return ( info &&
+        <nav aria-label="Page navigation example" className='navigation-nav'>
             <ReactPaginate
                 forcePage={pageNumber === 1 ? 0 : pageNumber - 1}
                 className='pagination gap-2'
