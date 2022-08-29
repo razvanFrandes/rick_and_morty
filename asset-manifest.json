@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/rickmorty/static/css/main.8bb681af.css",
-    "main.js": "/rickmorty/static/js/main.07a25f1f.js",
+    "main.js": "/rickmorty/static/js/main.b956f8a0.js",
     "index.html": "/rickmorty/index.html",
     "main.8bb681af.css.map": "/rickmorty/static/css/main.8bb681af.css.map",
-    "main.07a25f1f.js.map": "/rickmorty/static/js/main.07a25f1f.js.map"
+    "main.b956f8a0.js.map": "/rickmorty/static/js/main.b956f8a0.js.map"
   },
   "entrypoints": [
     "static/css/main.8bb681af.css",
-    "static/js/main.07a25f1f.js"
+    "static/js/main.b956f8a0.js"
   ]
 }
